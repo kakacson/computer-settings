@@ -1,4 +1,5 @@
-# My Computer Settings ### Specs and programs
+# My Computer Settings
+### Specs and programs
 
 ## Computer Specs
 **Processador:** Intel Core i7-6700HQ 2.6Ghz  
