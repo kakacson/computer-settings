@@ -12,6 +12,8 @@ ___
 **Pad:** Razer Goliathus Speed  
 **Headset:** Razer Kraken 7.1  
 
+![alt text](http://avell.com.br/uploads/detalhes/produtos/portugues/iron/v4/G1746/index_22.jpg)
+
 ## Programs and installs
 
 Icon | Program | Using
