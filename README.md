@@ -3,6 +3,7 @@
 
 ### Computer Specs
 **Processador:** Intel Core i7-6700HQ 2.6Ghz
+
 **Memória Ram:** 32GB DDR4 2100Mhz
 **VGA:** GTX 1070 8GB
 **HD:** SATAe M.2 - 480GB SSD
