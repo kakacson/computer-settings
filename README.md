@@ -16,7 +16,7 @@ ___
 
 Icon | Program | Using
 --- | --- | ---
-![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466456/GitHub/windows.png) | **Windows 10 Pro | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466456/GitHub/windows.png) | **Windows 10 Pro** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466129/GitHub/photoshop.png) | **Adobe Photoshop** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466129/GitHub/illustrator.png) | **Adobe Illustrator** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466129/GitHub/audition.png) | **Adobe Audition** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
