@@ -23,16 +23,16 @@ Icon | Program | Using
 --- | --- | ---
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466456/GitHub/sublime-text.png) | **Sublime Text 3** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466886/GitHub/atom.png) | **Atom** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
-![alt text]() | **Vim** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497467137/GitHub/vim.png) | **Vim** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466961/GitHub/git-bash.png) | **Git Bash** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
-![alt text]() | **MongoDB** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
-![alt text]() | **Robomongo** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497467661/GitHub/mongo.png) | **MongoDB** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497467232/GitHub/robomongo.png) | **Robomongo** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497467061/GitHub/eclipse.png) | **Eclipse Neon** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 --- | --- | ---
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466456/GitHub/java.png) | **JDK 8** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466456/GitHub/node-js.png) | **Node.js** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
-![alt text]() | **Gulp.js** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497467297/GitHub/gulp.png) | **Gulp.js** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497466456/GitHub/sass.png) | **Sass** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
 --- | --- | ---
-![alt text]() | **Slack** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
-![alt text]() | **Tawk.to** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497467509/GitHub/slack.png) | **Slack** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
+![alt text](http://res.cloudinary.com/osidney/image/upload/v1497468130/GitHub/tawk-to.png) | **Tawk.to** | ![alt text](http://res.cloudinary.com/osidney/image/upload/v1497464989/GitHub/check.png)
